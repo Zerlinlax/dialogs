@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">dialogs</string>
+    <string name="tiShi">提示</string>
+    <string name="exit">您确定要退出当前程序吗？</string>
+    <string name="Yes">是</string>
+    <string name="No">否</string>
+    <string name="happy">^_^</string>
+</resources>
